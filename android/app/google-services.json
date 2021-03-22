@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "699919402570",
+    "firebase_url": "https://datalogger-6fe79.firebaseio.com",
+    "project_id": "datalogger-6fe79",
+    "storage_bucket": "datalogger-6fe79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699919402570:android:0fbfa2c4a9f2b8c9e9c8b3",
+        "android_client_info": {
+          "package_name": "com.example.fcm_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699919402570-ch4dan11r61cdhoo3675s48r323ev946.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5BhRCbHD3TPeemkrQ5FAXHznuvlRdsXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699919402570-ch4dan11r61cdhoo3675s48r323ev946.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699919402570:android:d266b5998129496de9c8b3",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699919402570-ch4dan11r61cdhoo3675s48r323ev946.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5BhRCbHD3TPeemkrQ5FAXHznuvlRdsXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699919402570-ch4dan11r61cdhoo3675s48r323ev946.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699919402570:android:4bc9e68d23e0a95ce9c8b3",
+        "android_client_info": {
+          "package_name": "com.example.reminder_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699919402570-ch4dan11r61cdhoo3675s48r323ev946.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5BhRCbHD3TPeemkrQ5FAXHznuvlRdsXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699919402570-ch4dan11r61cdhoo3675s48r323ev946.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
