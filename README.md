@@ -1,4 +1,4 @@
-# reminder_app
+# Aplikasi Monitoring dan Reminder Status Obat
 
 A new Flutter project.
 
